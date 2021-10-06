@@ -2,6 +2,8 @@
 
 This module provides a `CopyField` for Silverstripe CMS. The `CopyField` includes a copy button to make it easy to copy the value of the field to the clipboard.
 
+![image](https://user-images.githubusercontent.com/1168676/136212260-a0aa9c61-09fb-4f09-994b-1dbe5a03b134.png)
+
 ## Installation
 
 ```
