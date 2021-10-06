@@ -1,8 +1,8 @@
 {
-  "name": "silverstripe-module-skeleton",
+  "name": "silverstripe-copy-field",
   "description": "Description of your module",
   "main": "./client/src/boot/index.js",
-  "author": "You",
+  "author": "Maxime Rainville",
   "engines": {
     "node": ">=10.x"
   },

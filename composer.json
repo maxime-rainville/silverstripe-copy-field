@@ -1,6 +1,6 @@
 {
-    "name": "silverstripe-module/skeleton",
-    "description": "A skeleton for SilverStripe modules.",
+    "name": "maxime-rainville/silverstripe-copy-field",
+    "description": "A field with a simple copy button",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
@@ -17,14 +17,11 @@
     },
     "autoload": {
         "psr-4": {
-            "SilverStripeModule\\Skeleton\\": "src/",
-            "SilverStripeModule\\Skeleton\\Tests\\": "tests/"
+            "MaximeRainville\\CopyField\\": "src/",
+            "MaximeRainville\\CopyField\\Tests\\": "tests/"
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "2.x-dev"
-        },
         "expose": [
             "client/dist"
         ]
