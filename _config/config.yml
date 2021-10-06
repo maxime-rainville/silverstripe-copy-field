@@ -1,0 +1,7 @@
+
+---
+Name: copyfield
+---
+SilverStripe\Admin\LeftAndMain:
+  extra_requirements_javascript:
+    - 'maxime-rainville/silverstripe-copy-field: client/dist/js/bundle.js'
