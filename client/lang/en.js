@@ -6,6 +6,7 @@ if (typeof(ss) === 'undefined' || typeof(ss.i18n) === 'undefined') {
   }
 } else {
   ss.i18n.addDictionary('en', {
-    "CopyField.COPIED_TO_CLIPBOARD": "Copied {title} value to clipboard"
+    "CopyField.COPIED_TO_CLIPBOARD": "Copied {title} value to clipboard",
+    "CopyField.COPY": "Copy"
 });
 }

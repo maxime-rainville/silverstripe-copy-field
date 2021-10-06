@@ -39,7 +39,9 @@ function CopyField({ obfuscate, onCopy, ...props }) {
     <InputGroup>
       <Input {...nextProps} />
       <InputGroupAddon addonType="append">
-        <Button outline onClick={doCopy}>Copy</Button>
+        <Button outline onClick={doCopy}>
+          {i18n._t('CopyField.COPY', 'Copy')}
+        </Button>
       </InputGroupAddon>
     </InputGroup>
   );
